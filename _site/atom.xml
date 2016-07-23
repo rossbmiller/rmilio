@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>rmil.io</title>
+ <link href="http://rmil.io/atom.xml" rel="self"/>
+ <link href="http://rmil.io/"/>
+ <updated>2016-07-22T16:56:29-07:00</updated>
+ <id>http://rmil.io</id>
+ <author>
+   <name>Ross Miller</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>/first</title>
+   <link href="http://rmil.io/2016/07/22/first/"/>
+   <updated>2016-07-22T00:00:00-07:00</updated>
+   <id>http://rmil.io/2016/07/22/first</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;“You should put something from that thing… like, with all the things together, you know… You should put something about sheep.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;My friend was suggesting content for this website.  She’s a graphic designer by trade, and I had asked for her input on the logo I just designed for this page.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This thing:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/logo.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The prominent graphic in this logo is an &lt;a href=&quot;n.wikipedia.org/wiki/Icosahedron&quot;&gt;icosahedron&lt;/a&gt;.  This shape is significant to me, because I like to play Dungeons and Dragons, and other nerdy games, and I think that it’s a cool shape that appropriately conveys my nerdiness.  &lt;strong&gt;&lt;a href=&quot;https://www.google.com/search?q=icosahedron+tattoo&quot;&gt;Some other people feel similarly.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I think my designer friend realized my intention, and that’s why she wanted me to post something about sheep.  You see, we got to know each other during an evening of drinking whisky and playing &lt;a href=&quot;http://www.catan.com/&quot;&gt;Settlers of Catan&lt;/a&gt;.  Our whole team was welcoming her to the firm, and I think she was a little bit scared and a little bit impressed by our devotion to nerdy activities (and alcohol).  If you’ve never played Catan, &lt;strong&gt;do&lt;/strong&gt;, and in doing so you’ll learn that sheep are a pretty big deal in the game.  At some point in the evening, I’m pretty sure a player was referred to as &lt;em&gt;“The Sheep Baron.”&lt;/em&gt;  So my friend suggested I put a sheep on my new website.  I think the evening being one of her favorite memories (I’m sure) and the icosahedron being a little reminiscent of the hexagons that comprise the cardboard island of Catan, the association of sheep and things nerdy came naturally to her.  Really, though, I think she was just encouraging me to be creative and make good internet things, which I appreciate.&lt;/p&gt;
+
+&lt;p&gt;So thanks for the help, &lt;a href=&quot;http://www.laurelgeddes.com/&quot;&gt;Laurel&lt;/a&gt;.  Here’s a sheep:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/img/sheep.jpg&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Let’s blog.&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

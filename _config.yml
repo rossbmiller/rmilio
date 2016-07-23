@@ -1,0 +1,62 @@
+# Site Info
+title: rmil.io
+tagline: 'A blog about things'
+description: 'A website has no description'
+baseurl: ""
+url: http://rmil.io
+logo: '/public/logo.png'
+
+# Site configurations
+gems:
+  - jekyll-paginate
+markdown: kramdown
+kramdown:
+  input: GFM
+excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss
+paginate: 5
+paginate_path: '/blog/page:num'
+permalink: pretty
+
+version: 1.0.0
+
+# About/contact
+author:
+  name: Ross Miller
+  description: I'm learning how to make internet things.
+  gravatar: 96d9ebcf875964e3ddaa759fee632b0e # md5 hash of your email address
+  contact:
+    linkedin:  https://www.linkedin.com/in/rossbmiller
+    #github:    https://github.com/codinfox
+    #facebook:  <hide>
+    twitter:   https://twitter.com/rbmiller
+    #weibo:     http://weibo.com/41173780
+    email:     mailto:rbmiller@gmail.com
+
+# Navigation (2nd level links supported)
+nav:
+  Home:
+    - '/'
+  Blog:
+    - '/blog/'
+    - { Categories: '/blog/categories/' }
+    - { Tags: '/blog/tags/' }
+  About:
+    - '/about/'
+  #Github Project:
+  #  - 'http://codinfox.github.io/'
+
+# Where are tags and categories displayed
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
+
+hero:
+  image: /public/img/frontwindowview.jpg
+  caption: Original Photo taken on my iPhone and processed with <a href="http://prisma-ai.com/">PRISMA</a>
+
+# Plugins
+#mathjax: true # whether support mathjax
+#google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
+#disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
